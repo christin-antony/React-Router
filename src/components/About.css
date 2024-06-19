@@ -1,0 +1,37 @@
+.Ap1{
+  
+    font-weight: bold;
+    color:white;  
+    font-size: 25px;
+    line-height: 2;
+    text-align: center;
+    width: 500px;
+   
+}.Adiv1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: cadetblue;   
+    height: 400px;
+   
+
+}.Adiv2{
+    display: flex;
+    justify-content:space-evenly;
+    text-align: center;
+    background-color: cadetblue;  
+   
+    
+}.Adiv3{
+    display: flex;
+    justify-content:space-evenly;
+    text-align: center;
+    background-color: cadetblue;  
+   
+    
+}.Ap2{
+    width: 200px;
+    color: azure;
+    font-size: 25px;
+    font-weight: bold;
+}
